@@ -1,0 +1,40 @@
+*{
+    top: 0;
+    left: 0;
+    box-sizing: border-box;
+}
+
+.div1{
+    width: 100vw;
+    height: 100vh;
+    background-color: rgb(158, 126, 126);
+    top: 0;
+    left: 0;
+   
+   
+  
+}
+.div2{
+   
+    background-color: rgb(156, 16, 16);
+    
+}
+.div3{
+    
+    background-color: aquamarine;
+    width: 90%;
+    margin:auto;
+    overflow: auto;
+}
+.div4{
+   
+    width: 30%;
+    float: left;
+    position: relative;
+}
+.a{
+    margin: 0 5%;
+}
+.div-img{
+    position: absolute;
+}
